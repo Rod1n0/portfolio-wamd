@@ -7,7 +7,7 @@
 
 A responsive, single-page personal portfolio with a dark, terminal-inspired design. It presents my background as a web developer and 4th-year systems security student (ENSTA), along with my skills, projects, education, and contact links.
 
-- **Live site:** `https://rod1n0.github.io/portfolio-wamd/`
+- **Live site:** https://rod1n0.github.io/portfolio-wamd/
 
 ## Technologies Used
 
